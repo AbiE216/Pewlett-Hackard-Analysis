@@ -18,5 +18,5 @@ Pewlett Hackard has a large number of employees who will be retiring in the comi
  - The table retirement_titles.csv contains a list of 133,776 names that are expected to retire, it contains their title, first and last name and dates from when they began to their current work date, some have already left the company, so they won't need to be considered.
  - The unique_titles.csv narrows down the previous list and contains the same list of employees, but holds only their most recent title in the company as opposed to every title they have held while working for Pewlett-Hackard, the number of employees retiring on list descreased significantly to 72,459 employees. 
  - The retiring_titles.csv shows the number of people retiring per title. Using the previous data set, the number of employees, and their corresponding titles were grouped together as seen in the image below. Senior engineer and senior staff members are set to lose the most people, current engineers will also be losing numbers, so they will need to focus recruitment in those areas.
- https://github.com/AbiE216/Pewlett-Hackard-Analysis/issues/1#issue-1327502188
+
 
