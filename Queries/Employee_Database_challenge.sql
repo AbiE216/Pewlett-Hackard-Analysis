@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+-- Deliverable 1
 SELECT DISTINCT ON (e.emp_no) e.emp_no,
 	e.first_name,
 	e.last_name,
